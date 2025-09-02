@@ -1,1 +1,16 @@
-# Visualization-of-wind-speed-in-administrative-regions
+# 北京风速可视化项目
+
+这是一个用于可视化北京市各区风速数据的项目，使用Python和Plotly实现交互式地图可视化。
+
+## 功能特点
+
+- 加载和处理北京市各区风速数据
+- 使用GeoJSON文件显示北京市地图
+- 交互式时间滑块，可查看不同时间点的风速情况
+- 动画播放功能，动态展示风速变化
+- 响应式设计，支持缩放和平移
+
+## 安装依赖
+
+```bash
+pip install -r requirements.txt
