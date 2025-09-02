@@ -1,6 +1,6 @@
 # Beijing Wind Speed Visualization System  
   
-一个基于Python的北京市行政区域风速数据可视化系统，支持时间序列动画和交互式地图展示。  
+一个基于Python的北京市行政区域风速数据可视化系统，支持时间序列动画和交互式地图展示。修改geojson行政区边界文件和地区风速csv即可二次开发。
   
 ## 项目概述  
   
@@ -166,3 +166,4 @@ pandas>=1.3.0    # 数据处理
 plotly>=5.0.0    # 可视化  
 numpy>=1.21.0    # 数值计算  
 shapely>=1.8.0   # 地理计算  
+
