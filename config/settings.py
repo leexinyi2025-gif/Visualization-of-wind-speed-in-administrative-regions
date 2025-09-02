@@ -41,7 +41,7 @@ VISUALIZATION_SETTINGS = {
         [0.8, '#FFA500'],   # 橙色
         [1.0, '#FF0000']    # 红色
     ],
-    "map_style": "carto-voyager",
+    "map_style": "open-street-map",
     "map_center": {"lon": 116.4, "lat": 40.0},
     "map_zoom": 8.5,
     "opacity": 0.85,

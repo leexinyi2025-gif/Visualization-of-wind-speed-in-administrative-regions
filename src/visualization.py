@@ -304,7 +304,7 @@ def setup_map_layout(fig, geojson, config, sliders, updatemenus, df, unique_time
             # 启用地图缩放功能
             bearing=0,
             pitch=0,
-            accesstoken=None,
+            accesstoken="your_mapbox_access_token_here",
             uirevision=True
         ),
         margin={"r":20,"t":100,"l":20,"b":20},
